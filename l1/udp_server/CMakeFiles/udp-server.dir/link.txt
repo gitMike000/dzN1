@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/udp-server.dir/main.cpp.o -o ../../bin/udp-server  ../../socket_wrapper/libsocket-wrapper.a 
