@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ping.dir/main.cpp.o -o ../../bin/ping  ../../socket_wrapper/libsocket-wrapper.a 
